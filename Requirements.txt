@@ -1,0 +1,5 @@
+composer.phar require intervention/image
+
+import database in xampp or any localhost
+
+generate key:  php artisan key:generate
